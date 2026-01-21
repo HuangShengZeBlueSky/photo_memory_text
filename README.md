@@ -1,5 +1,8 @@
+
 Eternal Moments - 云端纪念册 (Serverless Photo Gallery)
 Eternal Moments 是一个基于 HTML5 和 阿里云对象存储 (OSS) 构建的轻量级、无服务器（Serverless）个人纪念册应用。
+![微信图片_20260121195139_303_204](https://github.com/user-attachments/assets/f12538a8-5f8e-4bc2-bcfe-49d7e93b6588)
+
 
 本项目采用了极简的单页应用（SPA）架构，利用 OSS 既作为图床又作为轻量级 JSON 数据库，实现了照片瀑布流展示、留言板互动以及点赞功能。
 
